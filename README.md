@@ -1,6 +1,6 @@
 ﻿# Travel_Agency_-Turkish-
 
- I developed the local version (Turkish) of the Linkedin-looking site, which was developed using HTML5 and CSS3.
+I developed the local version (Turkish) of the site in addition to the other tourism agency site, which I created and developed the global version (English) using HTML5 and CSS3.
 
 
  <strong><u>The project screenshot is provided below:</u></strong>
